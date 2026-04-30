@@ -1,5 +1,4 @@
 # FaceATCrepo
-For my a project faceatc
 Focus: Developing a Facial Recognition-Based Attendance System for educational institutions.
 Technology: Python, OpenCV
 Goals: Enhance accuracy, efficiency, and accessibility in attendance processes.
