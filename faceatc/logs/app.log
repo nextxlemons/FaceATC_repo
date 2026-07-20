@@ -1,0 +1,12 @@
+2026-07-20 12:46:43,920 [INFO] __main__: Application starting
+2026-07-20 12:52:01,066 [INFO] __main__: Application starting
+2026-07-20 12:56:18,604 [INFO] __main__: Application starting
+2026-07-20 12:57:45,531 [INFO] __main__: Application starting
+2026-07-20 13:02:49,910 [INFO] __main__: Application starting
+2026-07-20 13:03:28,979 [WARNING] tensorflow: From C:\Users\91940\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2026-07-20 13:04:04,312 [INFO] face.camera: Camera opened: 0
+2026-07-20 13:05:26,737 [INFO] __main__: Application starting
+2026-07-20 13:05:44,900 [WARNING] tensorflow: From C:\Users\91940\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2026-07-20 13:05:48,535 [INFO] face.camera: Camera opened: 0
