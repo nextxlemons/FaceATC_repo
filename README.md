@@ -57,17 +57,17 @@ Face matching is embedding-based rather than pairwise image comparison: each stu
 ## 🏗️ System Architecture
 
 ```
-┌───────────────────────┐
+┌────────────────────────┐
 │   Tkinter UI Screens   │
 │  login → dashboard →   │
 │  add/remove/mark/view  │
 └──────────┬─────────────┘
            │
-┌──────────▼─────────────┐        ┌────────────────────┐
-│   Face Layer            │        │   Database Layer     │
-│  camera.py  (webcam)    │        │  students_repo.py    │
-│  embeddings.py (cache)  │◄──────►│  attendance_repo.py  │
-│  matcher.py  (matching) │        │  db.py (SQLite conn) │
+┌──────────▼─────────────┐        ┌──────────────────────┐
+│   Face Layer           │        │   Database Layer     │
+│  camera.py  (webcam)   │        │  students_repo.py    │
+│  embeddings.py (cache) │◄──────►│  attendance_repo.py  │
+│  matcher.py  (matching)│        │  db.py (SQLite conn) │
 └──────────┬─────────────┘        └──────────┬───────────┘
            │                                  │
            ▼                                  ▼
