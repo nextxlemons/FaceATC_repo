@@ -10,3 +10,24 @@
 2026-07-20 13:05:44,900 [WARNING] tensorflow: From C:\Users\91940\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
 
 2026-07-20 13:05:48,535 [INFO] face.camera: Camera opened: 0
+2026-07-21 21:20:32,375 [INFO] __main__: Application starting
+2026-07-21 21:21:02,387 [WARNING] tensorflow: From C:\Users\91940\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2026-07-21 21:24:46,100 [INFO] face.camera: Camera opened: 0
+2026-07-21 21:28:15,271 [INFO] __main__: Application starting
+2026-07-21 21:28:39,428 [WARNING] tensorflow: From C:\Users\91940\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2026-07-21 21:28:55,261 [INFO] face.camera: Camera opened: 0
+2026-07-21 21:29:41,635 [INFO] database.students_repo: Added student 12 (pratik, BCA)
+2026-07-21 21:29:42,071 [INFO] face.embeddings: Saved embedding for 12
+2026-07-21 21:29:42,369 [INFO] face.camera: Camera released: 0
+2026-07-21 21:29:56,549 [INFO] face.camera: Camera opened: 0
+2026-07-21 21:30:09,666 [INFO] database.attendance_repo: Marked attendance: 12 / BCA / Operating System / 2026-07-21
+2026-07-21 21:30:25,764 [INFO] database.attendance_repo: Marked attendance: 12 / BCA / DBMS / 2026-07-21
+2026-07-21 21:30:50,569 [INFO] face.camera: Camera released: 0
+2026-07-21 21:31:48,481 [INFO] face.camera: Camera opened: 0
+2026-07-21 21:32:22,815 [INFO] database.students_repo: Added student 1 (modi, BCA)
+2026-07-21 21:32:23,199 [INFO] face.embeddings: Saved embedding for 1
+2026-07-21 21:32:23,505 [INFO] face.camera: Camera released: 0
+2026-07-21 21:32:40,475 [INFO] face.camera: Camera opened: 0
+2026-07-21 21:33:28,957 [INFO] database.attendance_repo: Marked attendance: 1 / BCA / DBMS / 2026-07-21
